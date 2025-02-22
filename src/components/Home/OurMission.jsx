@@ -20,7 +20,7 @@ const OurMission = () => {
         </div>
         <div className="max-w-xl mx-auto lg:mx-0">
           <h3 className="text-4xl font-bold text-rose-800 dark:text-rose-400 mb-4">
-            Run for a Cause, Run for Yourself
+            Race for a Purpose, Race for Yourself
           </h3>
           <p className="mt-4 text-xl font-medium text-gray-700 dark:text-gray-300">
             <Typewriter
