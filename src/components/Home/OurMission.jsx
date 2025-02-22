@@ -29,7 +29,7 @@ const OurMission = () => {
                 "Celebrate health, unity, and determination.",
                 "Cross the finish line together.",
               ]}
-              loop={true} 
+              loop={true}
               cursor
               cursorStyle="|"
               typeSpeed={50}
@@ -38,11 +38,10 @@ const OurMission = () => {
             />
           </p>
           <p className="mt-6 text-gray-700 dark:text-gray-400 text-justify leading-relaxed">
-            At StrideSync, we believe in the transformative power of marathons.
-            Our mission is to promote health, inspire community spirit, and
-            support meaningful causes through running. Whether you're a seasoned
-            runner or a first-time participant, every step you take brings us closer
-            to creating a healthier, more connected world.
+            At StrideSync, we embrace the life-changing impact of marathons.
+            Our goal is to foster well-being, encourage community engagement,
+            and champion important causes through running. Whether you're an experienced runner or joining for the first time,
+            each stride helps build a healthier, more united world.
           </p>
           <p className="mt-4 text-gray-700 dark:text-gray-400 text-justify leading-relaxed">
             Together, we can achieve greatness. Marathons are not just about
