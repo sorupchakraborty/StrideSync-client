@@ -29,7 +29,7 @@ const OurMission = () => {
                 "Celebrate health, unity, and determination.",
                 "Cross the finish line together.",
               ]}
-              loop={true} // Infinite loop
+              loop={true} 
               cursor
               cursorStyle="|"
               typeSpeed={50}
