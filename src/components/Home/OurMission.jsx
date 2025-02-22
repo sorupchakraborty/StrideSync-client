@@ -44,10 +44,10 @@ const OurMission = () => {
             each stride helps build a healthier, more united world.
           </p>
           <p className="mt-4 text-gray-700 dark:text-gray-400 text-justify leading-relaxed">
-            Together, we can achieve greatness. Marathons are not just about
-            crossing the finish line but also about building resilience, making
-            memories, and fostering unity. Join our community and take strides
-            toward a brighter, more active future.
+            Together, we can accomplish greatness. Marathons go beyond
+            reaching the finish line—they strengthen resilience, create
+            lasting memories, and promote unity. Be part of our community
+            and take steps toward a healthier, more vibrant future.
           </p>
           <div className="mt-8 flex justify-start">
             <Link
