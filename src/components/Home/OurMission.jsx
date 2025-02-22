@@ -1,7 +1,5 @@
 import { Typewriter } from "react-simple-typewriter";
 import Lottie from "lottie-react";
-// import groovyWalkAnimation from "../../assets/groovyWalk.json";
-// import missionAnimation from "../../assets/marathon-mission.json"; // Replace with a relevant marathon-themed animation
 import SectionTitle from "../shared/SectionTitle";
 import run from '../../assets/groovy_rep.png';
 import { Link } from "react-router-dom";
@@ -17,7 +15,6 @@ const OurMission = () => {
         <div className="flex justify-center">
           <div className="w-full max-w-lg relative">
             <img src={run} alt="Runner" className="rounded-xl shadow-lg transform hover:scale-105 transition duration-500" />
-            {/* <Lottie animationData={groovyWalkAnimation} />; */}
             <div className="absolute inset-0 bg-gradient-to-b from-transparent to-rose-200 dark:to-gray-900 opacity-40 rounded-xl"></div>
           </div>
         </div>
