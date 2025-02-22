@@ -7,6 +7,7 @@ import coastal from "../../assets/coastal.jpg";
 import desert from "../../assets/desert.jpg";
 import citylights from "../../assets/citylights.jpg";
 
+
 const UpcomingMarathons = () => {
     const marathons = [
         {
